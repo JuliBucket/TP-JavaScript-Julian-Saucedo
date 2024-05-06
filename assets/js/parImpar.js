@@ -1,4 +1,4 @@
-let numero = parseFloat(prompt("ingrese un numero"))
+let numero = parseInt(prompt("ingrese un numero"))
 
 if(!isNaN(numero)){
   if (numero%2 === 0){
