@@ -11,4 +11,3 @@ numeros.sort(function(a, b) {
 })
 console.log(numeros)
 }
-
